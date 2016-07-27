@@ -1,0 +1,81 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #4E697E;
+}
+
+h1, h2 {
+  font-family: 'Harmattan', sans-serif;
+  color: #1E2F52;
+}
+
+a {
+  text-decoration: none;
+  color: #1E2F52;
+}
+
+a:hover {
+  color: #FF8000;
+}
+
+img {
+  width: 140px;
+}
+
+.card-white {
+  background: #F8F8F8;
+  padding: 30px;
+  width: 600px;
+  margin: 25px auto;
+  border-radius: 5px;
+  box-shadow: 3px 3px 4px #E8AE34;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.list-socials i {
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+
+.btn-red {
+  background-color: #045559;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.btn-red:hover {
+  color: #FF8000;
+}
+
+tr > th:nth-child(2) {
+  vertical-align: baseline;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding: 0px;
+}
+
+.list-inline > li {
+  list-style: none;
+  display: inline-block;
+  padding: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+/*.card-movie th {
+  padding: 20px 0px;
+}*/
+
+
+
